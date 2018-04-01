@@ -1,10 +1,10 @@
-# Vue 企业级样例
+# Vue Enterprise Boilerplate
 
 [![CircleCI](https://circleci.com/gh/chrisvfritz/vue-enterprise-boilerplate/tree/master.svg?style=svg)](https://circleci.com/gh/chrisvfritz/vue-enterprise-boilerplate/tree/master)
 
-> 这是一个通过 [Vue CLI 3](https://github.com/vuejs/vue-cli) 创建出来，为全新的 Vue SPA 项目所设计，不断发展、具有远见的架构和开发环境。欢迎提出问题、发表反馈和反复讨论。😄如果你希望我增加花费在这个项目，以及其他的 Vue 资源上的时间，**请考虑成为一个 [Patreon 赞助者](https://www.patreon.com/chrisvuefritz)**。:pray:
+> This is an ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using [Vue CLI 3](https://github.com/vuejs/vue-cli). Questions, feedback, and for now, even bikeshedding are welcome. 😄 If you'd like to increase the time I can spend on this project, as well as other Vue resources, **please consider becoming a [sponsor on Patreon](https://www.patreon.com/chrisvuefritz)**. :pray:
 
-**:warning: 这个项目使用 Vue CLI 3，目前处于 beta 阶段，可能还不适合生产环境下的项目。**
+**:warning: This project uses Vue CLI 3, which is currently in beta so may not yet be appropriate for production projects.**
 
 ## Features
 
